@@ -1,0 +1,54 @@
+{
+    "Usuarios":[ 
+        {
+            "id":1,
+            "Cedula": 1234567890,
+            "Nombre": "Anne",
+            "Apellido": "Hathaway",
+            "Correo":"AnneHathaway@gmail.com",
+            "Direccion":"Quevedo",
+            "Imagen":"https://cdn2.actitudfem.com/media/files/styles/gallerie_carousel/public/images/2014/12/notafamosos.jpg"
+        },
+        {
+            "id":2,
+            "Cedula": 1234543930,
+            "Nombre": "Selena",
+            "Apellido": "Gomez",
+            "Correo":"selenagomez@gmail.com",
+            "Direccion":"Quevedo",
+            "Imagen":"https://hips.hearstapps.com/es.h-cdn.co/hares/images/cultura/ocio/esto-es-lo-que-cobran-los-famosos-por-cada-post-en-instagram/3956796-1-esl-ES/esto-es-lo-que-cobran-los-famosos-por-cada-post-en-instagram.png?resize=480:*"
+        },{
+            "id":3,
+            "Cedula": 1287654670,
+            "Nombre": "Martina",
+            "Apellido": "Stoessel",
+            "Correo":"MartinaStoessel@gmail.com",
+            "Direccion":"Quevedo",
+            "Imagen":"https://revistacosas.mx/wp-content/uploads/2020/03/tini-stoessel-coronavirus-famosos-con-coronavirus-768x506.jpg"
+        },{
+            "id":4,
+            "Cedula": 1464567890,
+            "Nombre": "Adam",
+            "Apellido": "Huber",
+            "Correo":"AdamHuber@gmail.com",
+            "Direccion":"Quevedo",
+            "Imagen":"https://www.famousbirthdays.com/faces/huber-adam-image.jpg"
+        },{
+            "id":5,
+            "Cedula": 1864367890,
+            "Nombre": "Casey",
+            "Apellido": "Cott",
+            "Correo":"CaseyCott@gmail.com",
+            "Direccion":"Quevedo",
+            "Imagen":"https://www.famousbirthdays.com/faces/cott-casey-image.jpg"
+        },{
+            "id":6,
+            "Cedula": 1232345890,
+            "Nombre": "Jacob",
+            "Apellido": "Elordi",
+            "Correo":"JacobElordi@gmail.com",
+            "Direccion":"Quevedo",
+            "Imagen":"https://akns-images.eonline.com/eol_images/Entire_Site/2019712/rs_600x600-190812180850-600-jacob-elordi-euphoria-me-81219.jpg?fit=around|700:700&output-quality=90&crop=700:700;center,top"
+        }
+    ]
+}
